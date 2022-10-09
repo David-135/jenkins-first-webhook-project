@@ -1,1 +1,1 @@
-print('Hello Turan World')
+print('Hello Turan || World')
